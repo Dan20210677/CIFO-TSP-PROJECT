@@ -1,5 +1,7 @@
 # CIFO-TSP-PROJECT
 
+The full tables of the small problems are available in the repository since in the report we only present the parcial tables.
+
 INTRUCTIONS/INFORMATION
 
 selection.py, crossover.py, mutation.py and charles.py are fixed, no need to alter.
